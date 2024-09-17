@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/pticasper/AgileProject/_apis/build/status%2FBuildAppByMe.gitapp?branchName=master)](https://dev.azure.com/pticasper/AgileProject/_build/latest?definitionId=5&branchName=master)
